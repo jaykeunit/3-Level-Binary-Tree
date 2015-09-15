@@ -1,4 +1,4 @@
-//Larry Martinez 0946364
+//Larry Martinez
 //Cosc 4330 OS Summer 2015 
 
 #include <sys/wait.h>
